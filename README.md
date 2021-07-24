@@ -1,4 +1,4 @@
-# Basic Experimental Design Statistics
+# Experimental Design Statistics Basics
 
 This README serves the notes for a module I took that is based on Experimental Design Statistics.
 
