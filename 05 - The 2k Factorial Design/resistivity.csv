@@ -1,0 +1,17 @@
+A,B,C,D,Resistivity
+L,L,L,L,1.92
+H,L,L,L,11.28
+L,H,L,L,1.09
+H,H,L,L,5.75
+L,L,H,L,2.13
+H,L,H,L,9.53
+L,H,H,L,1.03
+H,H,H,L,5.35
+L,L,L,H,1.60
+H,L,L,H,11.73
+L,H,L,H,1.16
+H,H,L,H,4.68
+L,L,H,H,2.16
+H,L,H,H,9.11
+L,H,H,H,1.07
+H,H,H,H,5.30

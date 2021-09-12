@@ -1,0 +1,13 @@
+A,B,Block,Scheme,Y
+L,L,b1,s1,90.4
+L,L,b1,s2,0
+L,L,b2,s3,0
+H,L,b1,s1,90.1
+H,L,b2,s2,0
+H,L,b1,s3,0
+L,H,b2,s1,90.2
+L,H,b1,s2,0
+L,H,b1,s3,0
+H,H,b2,s1,90.9
+H,H,b2,s2,0
+H,H,b2,s3,0

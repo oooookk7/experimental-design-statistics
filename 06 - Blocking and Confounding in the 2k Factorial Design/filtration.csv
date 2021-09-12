@@ -1,0 +1,17 @@
+A,B,C,D,Block,Y
+L,L,L,L,b1,25
+H,H,L,L,b1,45
+H,L,H,L,b1,40
+L,H,H,L,b1,60
+H,L,L,H,b1,80
+L,H,L,H,b1,25
+L,L,H,H,b1,55
+H,H,H,H,b1,76
+H,L,L,L,b2,71
+L,H,L,L,b2,48
+L,L,H,L,b2,68
+L,L,L,H,b2,43
+H,H,H,L,b2,65
+L,H,H,H,b2,70
+H,L,H,H,b2,86
+H,H,L,H,b2,104

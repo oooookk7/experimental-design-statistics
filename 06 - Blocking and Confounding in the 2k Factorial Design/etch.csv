@@ -1,0 +1,17 @@
+A,B,C,Replicate,Block,Y
+L,L,L,r1,b1,550
+L,L,L,r2,b1,604
+H,H,L,r1,b1,642
+H,H,L,r2,b1,635
+H,L,H,r1,b1,749
+H,L,H,r2,b2,868
+L,H,H,r1,b1,1075
+L,H,H,r2,b2,1063
+H,L,L,r1,b2,669
+H,L,L,r2,b2,650
+L,H,L,r1,b2,633
+L,H,L,r2,b2,601
+L,L,H,r1,b2,1037
+L,L,H,r2,b1,1052
+H,H,H,r1,b2,729
+H,H,H,r2,b1,860
