@@ -1,0 +1,17 @@
+Treatment,A,B,C,D
+1,L,L,L,L
+d,L,L,L,H
+c,L,L,H,L
+cd,L,L,H,H
+b,L,H,L,L
+bd,L,H,L,H
+bc,L,H,H,L
+bcd,L,H,H,H
+a,H,L,L,L
+ad,H,L,L,H
+ac,H,L,H,L
+acd,H,L,H,H
+ab,H,H,L,L
+abd,H,H,L,H
+abc,H,H,H,L
+abcd,H,H,H,H
